@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/SanpeteJSUsersGroup/static/css/main.c5362a6a.chunk.css",
-    "main.js": "/SanpeteJSUsersGroup/static/js/main.a831a9e7.chunk.js",
-    "main.js.map": "/SanpeteJSUsersGroup/static/js/main.a831a9e7.chunk.js.map",
+    "main.js": "/SanpeteJSUsersGroup/static/js/main.d42c5034.chunk.js",
+    "main.js.map": "/SanpeteJSUsersGroup/static/js/main.d42c5034.chunk.js.map",
     "runtime-main.js": "/SanpeteJSUsersGroup/static/js/runtime-main.242edb5c.js",
     "runtime-main.js.map": "/SanpeteJSUsersGroup/static/js/runtime-main.242edb5c.js.map",
-    "static/js/2.af7f4e75.chunk.js": "/SanpeteJSUsersGroup/static/js/2.af7f4e75.chunk.js",
-    "static/js/2.af7f4e75.chunk.js.map": "/SanpeteJSUsersGroup/static/js/2.af7f4e75.chunk.js.map",
+    "static/js/2.7bf31611.chunk.js": "/SanpeteJSUsersGroup/static/js/2.7bf31611.chunk.js",
+    "static/js/2.7bf31611.chunk.js.map": "/SanpeteJSUsersGroup/static/js/2.7bf31611.chunk.js.map",
     "index.html": "/SanpeteJSUsersGroup/index.html",
-    "precache-manifest.7665dd700006ab7c6ef5454cae610d2d.js": "/SanpeteJSUsersGroup/precache-manifest.7665dd700006ab7c6ef5454cae610d2d.js",
+    "precache-manifest.8785791e6a66e6c6986bf8383378e4aa.js": "/SanpeteJSUsersGroup/precache-manifest.8785791e6a66e6c6986bf8383378e4aa.js",
     "service-worker.js": "/SanpeteJSUsersGroup/service-worker.js",
     "static/css/main.c5362a6a.chunk.css.map": "/SanpeteJSUsersGroup/static/css/main.c5362a6a.chunk.css.map",
-    "static/js/2.af7f4e75.chunk.js.LICENSE.txt": "/SanpeteJSUsersGroup/static/js/2.af7f4e75.chunk.js.LICENSE.txt",
+    "static/js/2.7bf31611.chunk.js.LICENSE.txt": "/SanpeteJSUsersGroup/static/js/2.7bf31611.chunk.js.LICENSE.txt",
     "static/media/logo.png": "/SanpeteJSUsersGroup/static/media/logo.665e1249.png"
   },
   "entrypoints": [
     "static/js/runtime-main.242edb5c.js",
-    "static/js/2.af7f4e75.chunk.js",
+    "static/js/2.7bf31611.chunk.js",
     "static/css/main.c5362a6a.chunk.css",
-    "static/js/main.a831a9e7.chunk.js"
+    "static/js/main.d42c5034.chunk.js"
   ]
 }
