@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b1886792de10180f917701c993337ca2",
+    "revision": "9c32c1dc012592308db9a94ca4e769df",
     "url": "/SanpeteJSUsersGroup/index.html"
   },
   {
-    "revision": "a3fd47cc7d979aacdf39",
-    "url": "/SanpeteJSUsersGroup/static/css/main.8dfd38ed.chunk.css"
+    "revision": "7114d0a50c3be5c716d4",
+    "url": "/SanpeteJSUsersGroup/static/css/main.95b1b65e.chunk.css"
   },
   {
     "revision": "143dafdaa0bf80bb8a32",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SanpeteJSUsersGroup/static/js/2.6aefae5f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a3fd47cc7d979aacdf39",
-    "url": "/SanpeteJSUsersGroup/static/js/main.f27c9e26.chunk.js"
+    "revision": "7114d0a50c3be5c716d4",
+    "url": "/SanpeteJSUsersGroup/static/js/main.1522fc4c.chunk.js"
   },
   {
     "revision": "82e893aa4252db311c8e",

@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/SanpeteJSUsersGroup/static/css/main.8dfd38ed.chunk.css",
-    "main.js": "/SanpeteJSUsersGroup/static/js/main.f27c9e26.chunk.js",
-    "main.js.map": "/SanpeteJSUsersGroup/static/js/main.f27c9e26.chunk.js.map",
+    "main.css": "/SanpeteJSUsersGroup/static/css/main.95b1b65e.chunk.css",
+    "main.js": "/SanpeteJSUsersGroup/static/js/main.1522fc4c.chunk.js",
+    "main.js.map": "/SanpeteJSUsersGroup/static/js/main.1522fc4c.chunk.js.map",
     "runtime-main.js": "/SanpeteJSUsersGroup/static/js/runtime-main.242edb5c.js",
     "runtime-main.js.map": "/SanpeteJSUsersGroup/static/js/runtime-main.242edb5c.js.map",
     "static/js/2.6aefae5f.chunk.js": "/SanpeteJSUsersGroup/static/js/2.6aefae5f.chunk.js",
     "static/js/2.6aefae5f.chunk.js.map": "/SanpeteJSUsersGroup/static/js/2.6aefae5f.chunk.js.map",
     "index.html": "/SanpeteJSUsersGroup/index.html",
-    "precache-manifest.c17bc615c314768115ca7bb7a956c89c.js": "/SanpeteJSUsersGroup/precache-manifest.c17bc615c314768115ca7bb7a956c89c.js",
+    "precache-manifest.fb18a74056793867952fab92d1048a97.js": "/SanpeteJSUsersGroup/precache-manifest.fb18a74056793867952fab92d1048a97.js",
     "service-worker.js": "/SanpeteJSUsersGroup/service-worker.js",
-    "static/css/main.8dfd38ed.chunk.css.map": "/SanpeteJSUsersGroup/static/css/main.8dfd38ed.chunk.css.map",
+    "static/css/main.95b1b65e.chunk.css.map": "/SanpeteJSUsersGroup/static/css/main.95b1b65e.chunk.css.map",
     "static/js/2.6aefae5f.chunk.js.LICENSE.txt": "/SanpeteJSUsersGroup/static/js/2.6aefae5f.chunk.js.LICENSE.txt",
     "static/media/Group.jpg": "/SanpeteJSUsersGroup/static/media/Group.43babb6d.jpg",
     "static/media/Single-Line-Logo.png": "/SanpeteJSUsersGroup/static/media/Single-Line-Logo.9a490b45.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.242edb5c.js",
     "static/js/2.6aefae5f.chunk.js",
-    "static/css/main.8dfd38ed.chunk.css",
-    "static/js/main.f27c9e26.chunk.js"
+    "static/css/main.95b1b65e.chunk.css",
+    "static/js/main.1522fc4c.chunk.js"
   ]
 }
