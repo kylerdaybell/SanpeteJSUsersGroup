@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/sanpetejsusersgroup/static/css/main.5f361e03.chunk.css",
-    "main.js": "/sanpetejsusersgroup/static/js/main.2e1143fb.chunk.js",
-    "main.js.map": "/sanpetejsusersgroup/static/js/main.2e1143fb.chunk.js.map",
-    "runtime-main.js": "/sanpetejsusersgroup/static/js/runtime-main.c0049f20.js",
-    "runtime-main.js.map": "/sanpetejsusersgroup/static/js/runtime-main.c0049f20.js.map",
-    "static/js/2.59e4a91c.chunk.js": "/sanpetejsusersgroup/static/js/2.59e4a91c.chunk.js",
-    "static/js/2.59e4a91c.chunk.js.map": "/sanpetejsusersgroup/static/js/2.59e4a91c.chunk.js.map",
-    "index.html": "/sanpetejsusersgroup/index.html",
-    "precache-manifest.99c2772b499c248abb2b0c4b113aa98d.js": "/sanpetejsusersgroup/precache-manifest.99c2772b499c248abb2b0c4b113aa98d.js",
-    "service-worker.js": "/sanpetejsusersgroup/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/sanpetejsusersgroup/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.59e4a91c.chunk.js.LICENSE.txt": "/sanpetejsusersgroup/static/js/2.59e4a91c.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/sanpetejsusersgroup/static/media/logo.5d5d9eef.svg"
+    "main.css": "/SanpeteJSUsersGroup/static/css/main.5f361e03.chunk.css",
+    "main.js": "/SanpeteJSUsersGroup/static/js/main.57f2fbaa.chunk.js",
+    "main.js.map": "/SanpeteJSUsersGroup/static/js/main.57f2fbaa.chunk.js.map",
+    "runtime-main.js": "/SanpeteJSUsersGroup/static/js/runtime-main.242edb5c.js",
+    "runtime-main.js.map": "/SanpeteJSUsersGroup/static/js/runtime-main.242edb5c.js.map",
+    "static/js/2.59e4a91c.chunk.js": "/SanpeteJSUsersGroup/static/js/2.59e4a91c.chunk.js",
+    "static/js/2.59e4a91c.chunk.js.map": "/SanpeteJSUsersGroup/static/js/2.59e4a91c.chunk.js.map",
+    "index.html": "/SanpeteJSUsersGroup/index.html",
+    "precache-manifest.c3055e8eaf58944e82681642ec35bfdd.js": "/SanpeteJSUsersGroup/precache-manifest.c3055e8eaf58944e82681642ec35bfdd.js",
+    "service-worker.js": "/SanpeteJSUsersGroup/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/SanpeteJSUsersGroup/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.59e4a91c.chunk.js.LICENSE.txt": "/SanpeteJSUsersGroup/static/js/2.59e4a91c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/SanpeteJSUsersGroup/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c0049f20.js",
+    "static/js/runtime-main.242edb5c.js",
     "static/js/2.59e4a91c.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.2e1143fb.chunk.js"
+    "static/js/main.57f2fbaa.chunk.js"
   ]
 }
