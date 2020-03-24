@@ -1,16 +1,18 @@
 import React from 'react';
-import logo from './logo.png';
-import './App.css';
-import Navbar from './components/navbar'
+import { Route, Switch } from "react-router";
+import Homepage from './components/home';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <Navbar />
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-      </header>
+    <>
+    <div className="container">
+      <Switch>
+        <Route exact path="/" component={Homepage} />
+        {/* <Route path="/404" component={NotFound} />
+        <Route component={NotFound} /> */}
+      </Switch>
     </div>
+    </>
   );
 }
 
