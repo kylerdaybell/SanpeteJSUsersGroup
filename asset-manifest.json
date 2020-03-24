@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/SanpeteJSUsersGroup/static/css/main.5f361e03.chunk.css",
-    "main.js": "/SanpeteJSUsersGroup/static/js/main.57f2fbaa.chunk.js",
-    "main.js.map": "/SanpeteJSUsersGroup/static/js/main.57f2fbaa.chunk.js.map",
+    "main.css": "/SanpeteJSUsersGroup/static/css/main.62b3f5ba.chunk.css",
+    "main.js": "/SanpeteJSUsersGroup/static/js/main.cea6b389.chunk.js",
+    "main.js.map": "/SanpeteJSUsersGroup/static/js/main.cea6b389.chunk.js.map",
     "runtime-main.js": "/SanpeteJSUsersGroup/static/js/runtime-main.242edb5c.js",
     "runtime-main.js.map": "/SanpeteJSUsersGroup/static/js/runtime-main.242edb5c.js.map",
     "static/js/2.59e4a91c.chunk.js": "/SanpeteJSUsersGroup/static/js/2.59e4a91c.chunk.js",
     "static/js/2.59e4a91c.chunk.js.map": "/SanpeteJSUsersGroup/static/js/2.59e4a91c.chunk.js.map",
     "index.html": "/SanpeteJSUsersGroup/index.html",
-    "precache-manifest.c3055e8eaf58944e82681642ec35bfdd.js": "/SanpeteJSUsersGroup/precache-manifest.c3055e8eaf58944e82681642ec35bfdd.js",
+    "precache-manifest.30ad4e421daecf6387aac1a8f5ef3cbf.js": "/SanpeteJSUsersGroup/precache-manifest.30ad4e421daecf6387aac1a8f5ef3cbf.js",
     "service-worker.js": "/SanpeteJSUsersGroup/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/SanpeteJSUsersGroup/static/css/main.5f361e03.chunk.css.map",
+    "static/css/main.62b3f5ba.chunk.css.map": "/SanpeteJSUsersGroup/static/css/main.62b3f5ba.chunk.css.map",
     "static/js/2.59e4a91c.chunk.js.LICENSE.txt": "/SanpeteJSUsersGroup/static/js/2.59e4a91c.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/SanpeteJSUsersGroup/static/media/logo.5d5d9eef.svg"
+    "static/media/logo.png": "/SanpeteJSUsersGroup/static/media/logo.665e1249.png"
   },
   "entrypoints": [
     "static/js/runtime-main.242edb5c.js",
     "static/js/2.59e4a91c.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.57f2fbaa.chunk.js"
+    "static/css/main.62b3f5ba.chunk.css",
+    "static/js/main.cea6b389.chunk.js"
   ]
 }

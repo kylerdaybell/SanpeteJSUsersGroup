@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c34468edd04c4a09a017261a76c5fa43",
+    "revision": "7e2480681ded4c4326b2e66aa6f7df66",
     "url": "/SanpeteJSUsersGroup/index.html"
   },
   {
-    "revision": "a4c640841f5276a739ef",
-    "url": "/SanpeteJSUsersGroup/static/css/main.5f361e03.chunk.css"
+    "revision": "8356bc952a40dc250e1c",
+    "url": "/SanpeteJSUsersGroup/static/css/main.62b3f5ba.chunk.css"
   },
   {
     "revision": "ba8fa7fb441f23745612",
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SanpeteJSUsersGroup/static/js/2.59e4a91c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a4c640841f5276a739ef",
-    "url": "/SanpeteJSUsersGroup/static/js/main.57f2fbaa.chunk.js"
+    "revision": "8356bc952a40dc250e1c",
+    "url": "/SanpeteJSUsersGroup/static/js/main.cea6b389.chunk.js"
   },
   {
     "revision": "82e893aa4252db311c8e",
     "url": "/SanpeteJSUsersGroup/static/js/runtime-main.242edb5c.js"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/SanpeteJSUsersGroup/static/media/logo.5d5d9eef.svg"
+    "revision": "665e1249c9236bffe340e839bf0c3bf2",
+    "url": "/SanpeteJSUsersGroup/static/media/logo.665e1249.png"
   }
 ]);
