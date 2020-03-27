@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import logo from '../public/images/logo.png';
-import group from '../public/images/Group.jpg'
+import chart from '../public/images/chart.jpg';
 
 class Schedule extends Component{
     render() {
@@ -16,6 +15,7 @@ class Schedule extends Component{
                         <h2 className="text-dark-grey">Building API's with Express.JS and MySQL - <span className="text-black">chance young</span></h2>
                         <p>april 1st 2020 at 6:00 pm via Skype. </p>                       
                 </div>
+                <img className="image" src={chart}></img>
             </div>
             </>
           );
