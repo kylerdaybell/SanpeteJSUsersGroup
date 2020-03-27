@@ -100,6 +100,18 @@
   color:white!important;
 }
 
+.text-grey{
+  color:var(--grey)!important;
+}
+
 .darkgrey{
   background-color:var(--dark-grey)!important;
+}
+
+.text-dark-grey{
+  color:var(--dark-grey)!important;
+}
+
+.text-black{
+  color:black!important;
 }

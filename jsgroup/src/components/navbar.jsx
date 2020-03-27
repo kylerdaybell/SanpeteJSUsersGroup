@@ -1,15 +1,14 @@
 import React, { Component } from 'react';
-import singlelinelogo from '../public/images/Single-Line-Logo.png'
+import { NavLink } from "react-router-dom";
 class Navbar extends Component {
     render() {
       return (
         <div className="nav">
           <ul>
-            <li><a className="home" href="#">Sanpete.js</a></li>
-            <li><a href="#news">News</a></li>
-            <li><a href="#contact">Contact</a></li>
-            <li><a href="#about">About</a></li>
-        </ul>
+            <li><NavLink className="home" to="/">Sanpete.js</NavLink></li>
+            <li><NavLink to="/schedule">Schedule</NavLink></li>
+            <li><NavLink to="/tutorials">tutorials</NavLink></li>
+          </ul>
         </div>
       );
     }

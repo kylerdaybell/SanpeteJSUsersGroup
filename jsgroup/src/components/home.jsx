@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import logo from '../public/images/logo.png';
-import group from '../public/images/Group.jpg'
+import group from '../public/images/Group.jpg';
+import chart from '../public/images/chart.jpg'
 
 class Homepage extends Component{
     render() {
@@ -11,14 +12,14 @@ class Homepage extends Component{
             </div>
 
             <div className="post">
-                <div className="title text-seafoam">
+            <div className="title text-seafoam">
                     <h1>Our First Meeting.</h1>
                 </div>
-                <div className="content">
-                    <h2>The first meeting of Sanpete.js will take place on april 1st 2020 via Skype. 
-                        <br/>we will be covering the following:</h2>
-                        <p>Building API's with Express.JS and MySQL</p>                        
+                <div className="content text-dark-grey">
+                        <h2 className="text-dark-grey">Building API's with Express.JS and MySQL - <span className="text-black">chance young</span></h2>
+                        <p>april 1st 2020 at 6:00 pm via Skype. </p>                       
                 </div>
+                <img className="image" src={chart}></img>
             </div>
 
             <div className="post darkgrey text-white">
@@ -28,7 +29,7 @@ class Homepage extends Component{
                 <div className="content">
                     <p>Founded in 2020</p>
                     <h2>The goal of the SJSUG is to provide Javascript programmers 
-                        in sanpete county with a valuable community.</h2>
+                        in Sanpete County with a valuable community.</h2>
                 </div>
                 <img className="image" src={group}></img>
             </div>
