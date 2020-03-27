@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/SanpeteJSUsersGroup/static/css/main.95b1b65e.chunk.css",
-    "main.js": "/SanpeteJSUsersGroup/static/js/main.9a4d5523.chunk.js",
-    "main.js.map": "/SanpeteJSUsersGroup/static/js/main.9a4d5523.chunk.js.map",
+    "main.css": "/SanpeteJSUsersGroup/static/css/main.28f6b212.chunk.css",
+    "main.js": "/SanpeteJSUsersGroup/static/js/main.db48d968.chunk.js",
+    "main.js.map": "/SanpeteJSUsersGroup/static/js/main.db48d968.chunk.js.map",
     "runtime-main.js": "/SanpeteJSUsersGroup/static/js/runtime-main.242edb5c.js",
     "runtime-main.js.map": "/SanpeteJSUsersGroup/static/js/runtime-main.242edb5c.js.map",
-    "static/js/2.6aefae5f.chunk.js": "/SanpeteJSUsersGroup/static/js/2.6aefae5f.chunk.js",
-    "static/js/2.6aefae5f.chunk.js.map": "/SanpeteJSUsersGroup/static/js/2.6aefae5f.chunk.js.map",
+    "static/js/2.4e9c5ca3.chunk.js": "/SanpeteJSUsersGroup/static/js/2.4e9c5ca3.chunk.js",
+    "static/js/2.4e9c5ca3.chunk.js.map": "/SanpeteJSUsersGroup/static/js/2.4e9c5ca3.chunk.js.map",
     "index.html": "/SanpeteJSUsersGroup/index.html",
-    "precache-manifest.fcdbafb429f820691fb0f73fb013f2a7.js": "/SanpeteJSUsersGroup/precache-manifest.fcdbafb429f820691fb0f73fb013f2a7.js",
+    "precache-manifest.b0a22fb4f34dd4b0a9e5a94893a47ee5.js": "/SanpeteJSUsersGroup/precache-manifest.b0a22fb4f34dd4b0a9e5a94893a47ee5.js",
     "service-worker.js": "/SanpeteJSUsersGroup/service-worker.js",
-    "static/css/main.95b1b65e.chunk.css.map": "/SanpeteJSUsersGroup/static/css/main.95b1b65e.chunk.css.map",
-    "static/js/2.6aefae5f.chunk.js.LICENSE.txt": "/SanpeteJSUsersGroup/static/js/2.6aefae5f.chunk.js.LICENSE.txt",
+    "static/css/main.28f6b212.chunk.css.map": "/SanpeteJSUsersGroup/static/css/main.28f6b212.chunk.css.map",
+    "static/js/2.4e9c5ca3.chunk.js.LICENSE.txt": "/SanpeteJSUsersGroup/static/js/2.4e9c5ca3.chunk.js.LICENSE.txt",
     "static/media/Group.jpg": "/SanpeteJSUsersGroup/static/media/Group.2184ecc0.jpg",
-    "static/media/Single-Line-Logo.png": "/SanpeteJSUsersGroup/static/media/Single-Line-Logo.9a490b45.png",
+    "static/media/chart.jpg": "/SanpeteJSUsersGroup/static/media/chart.9ca76c1a.jpg",
     "static/media/logo.png": "/SanpeteJSUsersGroup/static/media/logo.665e1249.png"
   },
   "entrypoints": [
     "static/js/runtime-main.242edb5c.js",
-    "static/js/2.6aefae5f.chunk.js",
-    "static/css/main.95b1b65e.chunk.css",
-    "static/js/main.9a4d5523.chunk.js"
+    "static/js/2.4e9c5ca3.chunk.js",
+    "static/css/main.28f6b212.chunk.css",
+    "static/js/main.db48d968.chunk.js"
   ]
 }
